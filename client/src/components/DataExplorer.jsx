@@ -12,7 +12,7 @@ export default function DataExplorer() {
 
   const fetchRecords = (page = 1) => {
     setLoading(true);
-    let url = `http://localhost:3001/api/records?page=${page}&limit=20`;
+    let url = `/api/records?page=${page}&limit=20`;
     if (filters.source) url += `&source=${filters.source}`;
     if (filters.photo_type) url += `&photo_type=${filters.photo_type}`;
     if (filters.failure_point) url += `&failure_point=${filters.failure_point}`;

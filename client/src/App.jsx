@@ -12,14 +12,18 @@ function App() {
   const [clustersData, setClustersData] = useState(null);
 
   useEffect(() => {
-    // Fetch initial status and cluster data
-    fetch('http://localhost:3001/api/status')
+    // Fetch system status
+    fetch('/api/status')
       .then(res => res.json())
       .then(data => setStatus(data))
-      .catch(err => console.error("Error fetching status:", err));
+      .catch(err => console.error(err));
 
-    fetch('http://localhost:3001/api/clusters')
-      .then(res => res.json())
+    // Fetch clusters and summary
+    fetch('/api/clusters')
+      .then(res => {
+        if (!res.ok) throw new Error("Data not ready");
+        return res.json();
+      })
       .then(data => setClustersData(data))
       .catch(err => console.error("Error fetching clusters:", err));
   }, []);
