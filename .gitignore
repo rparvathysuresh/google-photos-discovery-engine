@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Environment secrets
+config/.env
+
+# Collected & processed data (kept for static deployment)
+# data/
+
+# OS / editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*

@@ -1,0 +1,3711 @@
+[
+  {
+    "id": "mock-record-0",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-29T09:44:03.804Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "document",
+    "remembered_attributes": [
+      "time period"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "keyword search",
+    "failure_point": "couldn't formulate query",
+    "outcome": "found by accident",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-1",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-12T06:54:21.366Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "receipt",
+    "remembered_attributes": [
+      "time period"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by person",
+    "failure_point": "app limitation",
+    "outcome": "gave up",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-2",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-10T06:59:15.289Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "food",
+    "remembered_attributes": [
+      "occasion",
+      "emotion/context",
+      "time period"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "keyword search",
+    "failure_point": "app limitation",
+    "outcome": "found",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-3",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-20T21:04:35.565Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "event",
+    "remembered_attributes": [
+      "time period",
+      "visual details"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "gave up before trying",
+    "failure_point": "app limitation",
+    "outcome": "gave up",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-4",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-19T18:57:25.175Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "person",
+    "remembered_attributes": [
+      "occasion",
+      "visual details"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "no results",
+    "outcome": "found",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-5",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-07T01:54:26.157Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "receipt",
+    "remembered_attributes": [
+      "visual details"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "gave up before trying",
+    "failure_point": "no results",
+    "outcome": "found by accident",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-6",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-20T19:25:49.593Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "event",
+    "remembered_attributes": [
+      "occasion"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "couldn't formulate query",
+    "outcome": "found by accident",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-7",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-25T01:05:10.392Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "other",
+    "remembered_attributes": [
+      "device",
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "gave up before trying",
+    "failure_point": "no results",
+    "outcome": "found",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-8",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-01T06:16:54.165Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "receipt",
+    "remembered_attributes": [
+      "time period"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "keyword search",
+    "failure_point": "couldn't formulate query",
+    "outcome": "gave up",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-9",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-06T02:50:26.599Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "pet",
+    "remembered_attributes": [
+      "device",
+      "occasion"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "gave up before trying",
+    "failure_point": "app limitation",
+    "outcome": "gave up",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-10",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-16T08:48:59.195Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "place",
+    "remembered_attributes": [
+      "device",
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "gave up before trying",
+    "failure_point": "wrong result surfaced",
+    "outcome": "gave up",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-11",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-09T18:28:52.056Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "person",
+    "remembered_attributes": [
+      "occasion",
+      "people present",
+      "device"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "app limitation",
+    "outcome": "gave up",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-12",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-05T19:20:09.284Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "screenshot",
+    "remembered_attributes": [
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "keyword search",
+    "failure_point": "no results",
+    "outcome": "found by accident",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-13",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-10T21:08:24.576Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "screenshot",
+    "remembered_attributes": [
+      "time period"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "wrong result surfaced",
+    "outcome": "found by accident",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-14",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-30T12:20:37.741Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "food",
+    "remembered_attributes": [
+      "visual details"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "gave up before trying",
+    "failure_point": "wrong result surfaced",
+    "outcome": "found by accident",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-15",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-12T22:57:55.605Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "document",
+    "remembered_attributes": [
+      "time period",
+      "visual details"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "couldn't formulate query",
+    "outcome": "found",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-16",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-15T22:11:34.727Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "pet",
+    "remembered_attributes": [
+      "time period",
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "gave up before trying",
+    "failure_point": "too many results",
+    "outcome": "gave up",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-17",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-05T02:29:34.749Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "screenshot",
+    "remembered_attributes": [
+      "occasion"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "keyword search",
+    "failure_point": "no results",
+    "outcome": "found",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-18",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-07T22:59:26.651Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "other",
+    "remembered_attributes": [
+      "occasion",
+      "device"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "no results",
+    "outcome": "found by accident",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-19",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-18T03:30:58.393Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "person",
+    "remembered_attributes": [
+      "emotion/context"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "gave up before trying",
+    "failure_point": "app limitation",
+    "outcome": "found by accident",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-20",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-30T09:35:35.290Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "event",
+    "remembered_attributes": [
+      "people present",
+      "emotion/context"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "gave up before trying",
+    "failure_point": "app limitation",
+    "outcome": "found",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-21",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-18T11:01:37.393Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "person",
+    "remembered_attributes": [
+      "people present",
+      "device"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "couldn't formulate query",
+    "outcome": "gave up",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-22",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-12T01:44:18.329Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "receipt",
+    "remembered_attributes": [
+      "emotion/context",
+      "occasion"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "wrong result surfaced",
+    "outcome": "found by accident",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-23",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-31T12:38:15.204Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "other",
+    "remembered_attributes": [
+      "occasion",
+      "visual details"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "gave up before trying",
+    "failure_point": "too many results",
+    "outcome": "found",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-24",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-04T08:10:55.512Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "document",
+    "remembered_attributes": [
+      "emotion/context",
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "wrong result surfaced",
+    "outcome": "gave up",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-25",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-13T23:51:46.319Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "other",
+    "remembered_attributes": [
+      "device",
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "gave up before trying",
+    "failure_point": "couldn't formulate query",
+    "outcome": "found",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-26",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-12T12:56:17.506Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "screenshot",
+    "remembered_attributes": [
+      "time period",
+      "visual details",
+      "occasion"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "couldn't formulate query",
+    "outcome": "gave up",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-27",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-15T02:43:24.348Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "place",
+    "remembered_attributes": [
+      "occasion"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "couldn't formulate query",
+    "outcome": "gave up",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-28",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-06T22:54:21.897Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "place",
+    "remembered_attributes": [
+      "device",
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by person",
+    "failure_point": "too many results",
+    "outcome": "gave up",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-29",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-04T06:26:28.482Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "document",
+    "remembered_attributes": [
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "too many results",
+    "outcome": "gave up",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-30",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-09T18:19:29.946Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "other",
+    "remembered_attributes": [
+      "visual details"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by person",
+    "failure_point": "app limitation",
+    "outcome": "found by accident",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-31",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-01T08:52:31.741Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "place",
+    "remembered_attributes": [
+      "time period",
+      "visual details"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "wrong result surfaced",
+    "outcome": "found by accident",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-32",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-04T14:21:25.555Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "screenshot",
+    "remembered_attributes": [
+      "occasion"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "too many results",
+    "outcome": "gave up",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-33",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-13T03:38:23.395Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "receipt",
+    "remembered_attributes": [
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by person",
+    "failure_point": "too many results",
+    "outcome": "gave up",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-34",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-24T04:20:20.434Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "other",
+    "remembered_attributes": [
+      "time period",
+      "device",
+      "occasion"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "keyword search",
+    "failure_point": "couldn't formulate query",
+    "outcome": "found by accident",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-35",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-13T22:14:46.663Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "other",
+    "remembered_attributes": [
+      "occasion",
+      "emotion/context",
+      "visual details"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "wrong result surfaced",
+    "outcome": "found by accident",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-36",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-01T02:53:15.707Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "document",
+    "remembered_attributes": [
+      "device",
+      "emotion/context"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "gave up before trying",
+    "failure_point": "wrong result surfaced",
+    "outcome": "found by accident",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-37",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-10T03:49:18.556Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "food",
+    "remembered_attributes": [
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "app limitation",
+    "outcome": "found",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-38",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-31T16:12:45.514Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "place",
+    "remembered_attributes": [
+      "time period"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "too many results",
+    "outcome": "found by accident",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-39",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-10T00:19:42.599Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "document",
+    "remembered_attributes": [
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by person",
+    "failure_point": "app limitation",
+    "outcome": "gave up",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-40",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-10T11:43:45.547Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "screenshot",
+    "remembered_attributes": [
+      "emotion/context"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "keyword search",
+    "failure_point": "wrong result surfaced",
+    "outcome": "found",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-41",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-05T11:17:14.312Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "place",
+    "remembered_attributes": [
+      "occasion",
+      "visual details",
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "too many results",
+    "outcome": "found by accident",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-42",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-27T09:18:11.629Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "food",
+    "remembered_attributes": [
+      "occasion",
+      "visual details"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by person",
+    "failure_point": "app limitation",
+    "outcome": "found by accident",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-43",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-20T18:11:56.810Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "receipt",
+    "remembered_attributes": [
+      "emotion/context",
+      "device"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "gave up before trying",
+    "failure_point": "app limitation",
+    "outcome": "found",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-44",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-12T03:47:59.530Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "person",
+    "remembered_attributes": [
+      "time period",
+      "occasion"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "app limitation",
+    "outcome": "gave up",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-45",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-20T14:09:05.108Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "other",
+    "remembered_attributes": [
+      "device",
+      "emotion/context"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "couldn't formulate query",
+    "outcome": "gave up",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-46",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-24T06:36:46.543Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "other",
+    "remembered_attributes": [
+      "emotion/context"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "gave up before trying",
+    "failure_point": "app limitation",
+    "outcome": "gave up",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-47",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-04T20:34:25.406Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "place",
+    "remembered_attributes": [
+      "time period",
+      "emotion/context",
+      "device"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "no results",
+    "outcome": "found",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-48",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-07T17:14:22.980Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "screenshot",
+    "remembered_attributes": [
+      "occasion"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "no results",
+    "outcome": "gave up",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-49",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-09T19:33:48.092Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "pet",
+    "remembered_attributes": [
+      "occasion"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by person",
+    "failure_point": "wrong result surfaced",
+    "outcome": "found by accident",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-50",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-29T18:17:36.006Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "place",
+    "remembered_attributes": [
+      "visual details"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "too many results",
+    "outcome": "found",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-51",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-06T08:08:58.975Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "place",
+    "remembered_attributes": [
+      "visual details",
+      "device"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "no results",
+    "outcome": "gave up",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-52",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-13T12:49:47.724Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "pet",
+    "remembered_attributes": [
+      "emotion/context",
+      "time period"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by person",
+    "failure_point": "too many results",
+    "outcome": "found by accident",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-53",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-24T04:50:34.219Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "event",
+    "remembered_attributes": [
+      "device"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "too many results",
+    "outcome": "found by accident",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-54",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-19T13:09:45.841Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "food",
+    "remembered_attributes": [
+      "time period",
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "keyword search",
+    "failure_point": "couldn't formulate query",
+    "outcome": "found",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-55",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-04T12:52:35.257Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "event",
+    "remembered_attributes": [
+      "occasion",
+      "device"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "too many results",
+    "outcome": "gave up",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-56",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-22T07:42:56.004Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "food",
+    "remembered_attributes": [
+      "occasion"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "keyword search",
+    "failure_point": "too many results",
+    "outcome": "found",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-57",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-11T22:09:31.883Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "person",
+    "remembered_attributes": [
+      "emotion/context"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "no results",
+    "outcome": "found",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-58",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-27T18:53:56.614Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "receipt",
+    "remembered_attributes": [
+      "visual details"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "too many results",
+    "outcome": "found",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-59",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-09T18:57:54.872Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "person",
+    "remembered_attributes": [
+      "time period",
+      "emotion/context",
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "too many results",
+    "outcome": "gave up",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-60",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-07T00:52:48.050Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "event",
+    "remembered_attributes": [
+      "occasion"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "keyword search",
+    "failure_point": "wrong result surfaced",
+    "outcome": "found",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-61",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-26T16:16:06.862Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "person",
+    "remembered_attributes": [
+      "device"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by person",
+    "failure_point": "too many results",
+    "outcome": "found",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-62",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-13T03:24:33.042Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "person",
+    "remembered_attributes": [
+      "emotion/context",
+      "time period"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by person",
+    "failure_point": "couldn't formulate query",
+    "outcome": "gave up",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-63",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-12T11:11:10.801Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "document",
+    "remembered_attributes": [
+      "time period",
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "wrong result surfaced",
+    "outcome": "found",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-64",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-31T03:04:56.812Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "food",
+    "remembered_attributes": [
+      "visual details"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "gave up before trying",
+    "failure_point": "too many results",
+    "outcome": "found by accident",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-65",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-19T01:48:56.803Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "place",
+    "remembered_attributes": [
+      "people present",
+      "device"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "gave up before trying",
+    "failure_point": "wrong result surfaced",
+    "outcome": "found by accident",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-66",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-01T08:43:31.720Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "event",
+    "remembered_attributes": [
+      "visual details",
+      "time period"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "wrong result surfaced",
+    "outcome": "gave up",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-67",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-24T15:32:03.363Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "food",
+    "remembered_attributes": [
+      "occasion",
+      "visual details",
+      "time period"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "no results",
+    "outcome": "found",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-68",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-19T20:56:44.544Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "receipt",
+    "remembered_attributes": [
+      "time period",
+      "device"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "too many results",
+    "outcome": "found",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-69",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-21T23:05:17.206Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "pet",
+    "remembered_attributes": [
+      "device",
+      "occasion",
+      "emotion/context"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "keyword search",
+    "failure_point": "too many results",
+    "outcome": "found by accident",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-70",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-04T08:38:43.109Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "other",
+    "remembered_attributes": [
+      "time period",
+      "visual details",
+      "emotion/context"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "no results",
+    "outcome": "gave up",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-71",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-29T07:18:03.976Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "pet",
+    "remembered_attributes": [
+      "occasion",
+      "device",
+      "visual details"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "wrong result surfaced",
+    "outcome": "gave up",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-72",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-28T07:57:38.215Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "other",
+    "remembered_attributes": [
+      "people present",
+      "visual details"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "couldn't formulate query",
+    "outcome": "gave up",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-73",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-26T05:39:12.739Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "document",
+    "remembered_attributes": [
+      "occasion"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "too many results",
+    "outcome": "gave up",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-74",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-19T11:03:20.704Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "food",
+    "remembered_attributes": [
+      "time period",
+      "occasion"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "couldn't formulate query",
+    "outcome": "found",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-75",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-21T06:59:28.408Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "event",
+    "remembered_attributes": [
+      "device",
+      "time period"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "app limitation",
+    "outcome": "gave up",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-76",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-03T09:14:08.389Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "other",
+    "remembered_attributes": [
+      "emotion/context"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "gave up before trying",
+    "failure_point": "no results",
+    "outcome": "gave up",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-77",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-03T08:28:26.168Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "document",
+    "remembered_attributes": [
+      "occasion",
+      "time period"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "app limitation",
+    "outcome": "gave up",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-78",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-13T21:56:55.912Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "other",
+    "remembered_attributes": [
+      "occasion"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "no results",
+    "outcome": "gave up",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-79",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-20T23:28:37.686Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "receipt",
+    "remembered_attributes": [
+      "emotion/context",
+      "time period"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "couldn't formulate query",
+    "outcome": "found",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-80",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-07T05:14:40.390Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "person",
+    "remembered_attributes": [
+      "emotion/context"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "app limitation",
+    "outcome": "found by accident",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-81",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-15T11:15:33.847Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "food",
+    "remembered_attributes": [
+      "visual details"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "too many results",
+    "outcome": "gave up",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-82",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-21T03:23:07.399Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "place",
+    "remembered_attributes": [
+      "emotion/context"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "app limitation",
+    "outcome": "found",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-83",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-14T19:41:15.610Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "person",
+    "remembered_attributes": [
+      "occasion"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "couldn't formulate query",
+    "outcome": "found",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-84",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-24T18:34:45.214Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "receipt",
+    "remembered_attributes": [
+      "people present",
+      "device"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "gave up before trying",
+    "failure_point": "too many results",
+    "outcome": "found by accident",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-85",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-21T11:12:54.661Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "pet",
+    "remembered_attributes": [
+      "emotion/context",
+      "device",
+      "visual details"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "too many results",
+    "outcome": "found",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-86",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-17T23:19:16.630Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "person",
+    "remembered_attributes": [
+      "time period",
+      "visual details",
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "app limitation",
+    "outcome": "found",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-87",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-08T15:08:07.249Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "other",
+    "remembered_attributes": [
+      "occasion",
+      "visual details"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "gave up before trying",
+    "failure_point": "no results",
+    "outcome": "found",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-88",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-11T03:29:07.367Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "event",
+    "remembered_attributes": [
+      "emotion/context",
+      "time period"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by person",
+    "failure_point": "too many results",
+    "outcome": "found by accident",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-89",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-24T10:47:04.214Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "person",
+    "remembered_attributes": [
+      "device",
+      "time period"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "keyword search",
+    "failure_point": "no results",
+    "outcome": "found",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-90",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-03T21:27:34.316Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "pet",
+    "remembered_attributes": [
+      "device"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "gave up before trying",
+    "failure_point": "app limitation",
+    "outcome": "gave up",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-91",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-01T19:00:25.368Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "person",
+    "remembered_attributes": [
+      "emotion/context",
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "keyword search",
+    "failure_point": "couldn't formulate query",
+    "outcome": "found",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-92",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-13T13:57:20.321Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "food",
+    "remembered_attributes": [
+      "emotion/context",
+      "occasion",
+      "time period"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "couldn't formulate query",
+    "outcome": "gave up",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-93",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-06T18:36:35.434Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "other",
+    "remembered_attributes": [
+      "occasion"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by person",
+    "failure_point": "wrong result surfaced",
+    "outcome": "found",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-94",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-20T23:37:56.251Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "person",
+    "remembered_attributes": [
+      "people present",
+      "occasion"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "keyword search",
+    "failure_point": "wrong result surfaced",
+    "outcome": "gave up",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-95",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-19T09:27:41.954Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "person",
+    "remembered_attributes": [
+      "occasion",
+      "visual details",
+      "device"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "app limitation",
+    "outcome": "found",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-96",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-02T19:10:17.153Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "document",
+    "remembered_attributes": [
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "gave up before trying",
+    "failure_point": "app limitation",
+    "outcome": "found by accident",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-97",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-15T22:42:36.573Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "receipt",
+    "remembered_attributes": [
+      "visual details",
+      "occasion",
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "no results",
+    "outcome": "found",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-98",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-14T22:58:28.430Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "person",
+    "remembered_attributes": [
+      "emotion/context"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "no results",
+    "outcome": "gave up",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-99",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-01T20:30:22.455Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "event",
+    "remembered_attributes": [
+      "device"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "gave up before trying",
+    "failure_point": "couldn't formulate query",
+    "outcome": "found by accident",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-100",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-22T02:13:28.133Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "food",
+    "remembered_attributes": [
+      "people present",
+      "time period"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "app limitation",
+    "outcome": "gave up",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-101",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-05T00:42:28.640Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "food",
+    "remembered_attributes": [
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "too many results",
+    "outcome": "found",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-102",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-21T18:07:59.589Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "screenshot",
+    "remembered_attributes": [
+      "people present",
+      "time period"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "app limitation",
+    "outcome": "gave up",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-103",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-11T12:19:17.520Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "pet",
+    "remembered_attributes": [
+      "people present",
+      "occasion",
+      "emotion/context"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "keyword search",
+    "failure_point": "no results",
+    "outcome": "found",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-104",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-15T12:56:38.579Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "document",
+    "remembered_attributes": [
+      "visual details",
+      "device"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "no results",
+    "outcome": "found by accident",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-105",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-30T09:31:34.881Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "screenshot",
+    "remembered_attributes": [
+      "device",
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by person",
+    "failure_point": "couldn't formulate query",
+    "outcome": "found by accident",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-106",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-31T10:35:46.560Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "food",
+    "remembered_attributes": [
+      "visual details",
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by person",
+    "failure_point": "couldn't formulate query",
+    "outcome": "found",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-107",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-22T05:53:05.193Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "screenshot",
+    "remembered_attributes": [
+      "occasion",
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "gave up before trying",
+    "failure_point": "wrong result surfaced",
+    "outcome": "gave up",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-108",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-08T04:20:26.183Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "pet",
+    "remembered_attributes": [
+      "time period",
+      "device"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "keyword search",
+    "failure_point": "app limitation",
+    "outcome": "found",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-109",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-07T15:11:38.562Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "pet",
+    "remembered_attributes": [
+      "device",
+      "emotion/context"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "app limitation",
+    "outcome": "found by accident",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-110",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-26T11:18:49.741Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "document",
+    "remembered_attributes": [
+      "emotion/context",
+      "time period"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "no results",
+    "outcome": "found",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-111",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-23T15:50:56.076Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "other",
+    "remembered_attributes": [
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by person",
+    "failure_point": "too many results",
+    "outcome": "gave up",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-112",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-21T03:25:15.364Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "person",
+    "remembered_attributes": [
+      "visual details"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "keyword search",
+    "failure_point": "couldn't formulate query",
+    "outcome": "gave up",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-113",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-19T07:04:22.106Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "place",
+    "remembered_attributes": [
+      "people present",
+      "device"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "keyword search",
+    "failure_point": "too many results",
+    "outcome": "gave up",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-114",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-23T02:49:17.342Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "food",
+    "remembered_attributes": [
+      "device"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "wrong result surfaced",
+    "outcome": "gave up",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-115",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-03T07:20:10.646Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "receipt",
+    "remembered_attributes": [
+      "emotion/context",
+      "time period"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "couldn't formulate query",
+    "outcome": "gave up",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-116",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-23T19:55:15.205Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "person",
+    "remembered_attributes": [
+      "occasion",
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "couldn't formulate query",
+    "outcome": "found",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-117",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-05T04:14:17.985Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "event",
+    "remembered_attributes": [
+      "visual details",
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "gave up before trying",
+    "failure_point": "no results",
+    "outcome": "found",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-118",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-16T15:53:42.790Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "receipt",
+    "remembered_attributes": [
+      "time period",
+      "occasion"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by person",
+    "failure_point": "wrong result surfaced",
+    "outcome": "found by accident",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-119",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-05-29T21:00:14.844Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "place",
+    "remembered_attributes": [
+      "time period",
+      "occasion"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by person",
+    "failure_point": "couldn't formulate query",
+    "outcome": "found by accident",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-120",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-21T14:44:39.841Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "place",
+    "remembered_attributes": [
+      "emotion/context",
+      "device"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "app limitation",
+    "outcome": "gave up",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-121",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-08T22:46:20.453Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "receipt",
+    "remembered_attributes": [
+      "time period",
+      "emotion/context"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by person",
+    "failure_point": "wrong result surfaced",
+    "outcome": "found",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-122",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-24T19:58:36.732Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "event",
+    "remembered_attributes": [
+      "time period",
+      "people present",
+      "emotion/context"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "too many results",
+    "outcome": "gave up",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-123",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-16T13:34:22.151Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "event",
+    "remembered_attributes": [
+      "device"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "keyword search",
+    "failure_point": "wrong result surfaced",
+    "outcome": "found by accident",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-124",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-02T05:26:17.741Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "pet",
+    "remembered_attributes": [
+      "emotion/context",
+      "visual details"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "gave up before trying",
+    "failure_point": "wrong result surfaced",
+    "outcome": "found by accident",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-125",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-06T14:31:49.416Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "document",
+    "remembered_attributes": [
+      "emotion/context",
+      "visual details"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "app limitation",
+    "outcome": "found",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-126",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-09T02:34:57.617Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "person",
+    "remembered_attributes": [
+      "people present",
+      "emotion/context"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "no results",
+    "outcome": "found",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-127",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-16T00:32:15.357Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "food",
+    "remembered_attributes": [
+      "visual details"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by person",
+    "failure_point": "couldn't formulate query",
+    "outcome": "gave up",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-128",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-14T16:34:44.072Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "place",
+    "remembered_attributes": [
+      "emotion/context",
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "gave up before trying",
+    "failure_point": "no results",
+    "outcome": "found by accident",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-129",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-21T19:41:09.831Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "person",
+    "remembered_attributes": [
+      "occasion",
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by person",
+    "failure_point": "too many results",
+    "outcome": "found",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-130",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-06T10:12:47.966Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "screenshot",
+    "remembered_attributes": [
+      "time period",
+      "visual details",
+      "device"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by person",
+    "failure_point": "no results",
+    "outcome": "gave up",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-131",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-26T20:27:08.117Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "place",
+    "remembered_attributes": [
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "no results",
+    "outcome": "gave up",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-132",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-07T06:53:15.514Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "person",
+    "remembered_attributes": [
+      "device"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "wrong result surfaced",
+    "outcome": "gave up",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-133",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-05-29T19:50:38.283Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "receipt",
+    "remembered_attributes": [
+      "occasion"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by person",
+    "failure_point": "wrong result surfaced",
+    "outcome": "found by accident",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-134",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-23T01:13:23.980Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "screenshot",
+    "remembered_attributes": [
+      "time period",
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "too many results",
+    "outcome": "gave up",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-135",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-12T13:02:17.783Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "place",
+    "remembered_attributes": [
+      "time period",
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "no results",
+    "outcome": "gave up",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-136",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-23T20:23:32.130Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "event",
+    "remembered_attributes": [
+      "device"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "no results",
+    "outcome": "gave up",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-137",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-08T13:02:05.018Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "receipt",
+    "remembered_attributes": [
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by person",
+    "failure_point": "couldn't formulate query",
+    "outcome": "found",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-138",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-05T16:45:40.040Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "screenshot",
+    "remembered_attributes": [
+      "device"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "couldn't formulate query",
+    "outcome": "gave up",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-139",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-13T09:17:53.451Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "pet",
+    "remembered_attributes": [
+      "people present"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by person",
+    "failure_point": "wrong result surfaced",
+    "outcome": "found by accident",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-140",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-25T01:39:33.339Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "screenshot",
+    "remembered_attributes": [
+      "people present",
+      "time period"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by person",
+    "failure_point": "couldn't formulate query",
+    "outcome": "found",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-141",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-22T22:30:59.693Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "food",
+    "remembered_attributes": [
+      "visual details"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "too many results",
+    "outcome": "found by accident",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-142",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-18T01:54:21.198Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "place",
+    "remembered_attributes": [
+      "occasion",
+      "visual details"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "couldn't formulate query",
+    "outcome": "gave up",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-143",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-12T17:11:14.296Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "place",
+    "remembered_attributes": [
+      "device"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "wrong result surfaced",
+    "outcome": "gave up",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-144",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-06-21T15:23:29.905Z",
+    "raw_text": "I was trying to find an old photo of my dog. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "place",
+    "remembered_attributes": [
+      "occasion"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "gave up before trying",
+    "failure_point": "no results",
+    "outcome": "found by accident",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-145",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-09-18T16:28:23.244Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "document",
+    "remembered_attributes": [
+      "visual details",
+      "occasion"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "manual scroll",
+    "failure_point": "app limitation",
+    "outcome": "found",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-146",
+    "source": "playstore",
+    "url": "https://example.com/mock-post",
+    "date": "2026-08-15T22:54:20.695Z",
+    "raw_text": "I was trying to find an old photo of my friends. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "person",
+    "remembered_attributes": [
+      "occasion",
+      "emotion/context"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "keyword search",
+    "failure_point": "app limitation",
+    "outcome": "gave up",
+    "emotional_stakes": "medium",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-147",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-04T23:29:08.301Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around 2019. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "receipt",
+    "remembered_attributes": [
+      "time period"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by person",
+    "failure_point": "no results",
+    "outcome": "found by accident",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-148",
+    "source": "helpcommunity",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-19T10:11:33.031Z",
+    "raw_text": "I was trying to find an old photo of my vacation. I knew it was taken around Christmas. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "document",
+    "remembered_attributes": [
+      "visual details"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "gave up before trying",
+    "failure_point": "couldn't formulate query",
+    "outcome": "gave up",
+    "emotional_stakes": "high",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  },
+  {
+    "id": "mock-record-149",
+    "source": "reddit",
+    "url": "https://example.com/mock-post",
+    "date": "2026-07-01T15:16:37.931Z",
+    "raw_text": "I was trying to find an old photo of my receipt. I knew it was taken around last summer. I searched for it but I couldn't find it anywhere. It's so frustrating because I know it's there!",
+    "photo_type": "event",
+    "remembered_attributes": [
+      "visual details"
+    ],
+    "forgotten_attributes": [
+      "exact date"
+    ],
+    "search_strategy_used": "search by location",
+    "failure_point": "too many results",
+    "outcome": "gave up",
+    "emotional_stakes": "low",
+    "workaround_used": "none",
+    "query_formulation": {
+      "style": "natural_language_description",
+      "example_query_paraphrased": "photo of my dog from last summer",
+      "query_matched_forgotten_gap": true
+    }
+  }
+]

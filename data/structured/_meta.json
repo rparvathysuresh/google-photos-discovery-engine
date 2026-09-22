@@ -1,0 +1,8 @@
+{
+  "agent": "extractor",
+  "started_at": "2026-09-22T07:07:39.072Z",
+  "completed_at": "2026-09-22T07:07:39.072Z",
+  "extracted_count": 150,
+  "error_rate": 0,
+  "status": "success"
+}

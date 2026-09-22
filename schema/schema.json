@@ -1,0 +1,179 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://google-photos-analysis/schema/record.json",
+  "title": "Structured Retrieval Failure Record",
+  "description": "Schema for a single structured extraction of an incomplete-memory photo retrieval failure from user feedback.",
+  "type": "object",
+  "required": [
+    "id",
+    "source",
+    "url",
+    "date",
+    "raw_text",
+    "photo_type",
+    "remembered_attributes",
+    "forgotten_attributes",
+    "search_strategy_used",
+    "failure_point",
+    "outcome",
+    "emotional_stakes",
+    "workaround_used",
+    "query_formulation"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier in the format '{source}_{index}' (e.g., 'reddit_042')."
+    },
+    "source": {
+      "type": "string",
+      "enum": ["playstore", "appstore", "reddit", "helpcommunity", "youtube"],
+      "description": "The platform this record was collected from."
+    },
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "description": "Permalink to the original review, post, or comment."
+    },
+    "date": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp of the original review/post."
+    },
+    "raw_text": {
+      "type": "string",
+      "minLength": 1,
+      "description": "The original user text (may be truncated to 2000 chars)."
+    },
+    "photo_type": {
+      "type": "string",
+      "enum": [
+        "screenshot",
+        "document",
+        "person",
+        "place",
+        "event",
+        "receipt",
+        "food",
+        "pet",
+        "other"
+      ],
+      "description": "The type of photo/video the user was trying to find."
+    },
+    "remembered_attributes": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "time period",
+          "people present",
+          "emotion/context",
+          "device",
+          "visual details",
+          "occasion"
+        ]
+      },
+      "description": "Attributes the user DOES remember about the photo."
+    },
+    "forgotten_attributes": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "exact date",
+          "place name",
+          "album",
+          "search keywords"
+        ]
+      },
+      "description": "Attributes the user CANNOT recall, preventing effective search."
+    },
+    "search_strategy_used": {
+      "type": "string",
+      "enum": [
+        "keyword search",
+        "manual scroll",
+        "search by person",
+        "search by location",
+        "gave up before trying"
+      ],
+      "description": "The search approach the user attempted (or didn't attempt)."
+    },
+    "failure_point": {
+      "type": "string",
+      "enum": [
+        "no results",
+        "too many results",
+        "couldn't formulate query",
+        "wrong result surfaced",
+        "app limitation"
+      ],
+      "description": "Where in the search process the user's attempt broke down."
+    },
+    "outcome": {
+      "type": "string",
+      "enum": [
+        "found",
+        "found by accident",
+        "gave up"
+      ],
+      "description": "The final result of the user's retrieval attempt."
+    },
+    "emotional_stakes": {
+      "type": "string",
+      "enum": ["low", "medium", "high"],
+      "description": "How emotionally significant the photo is. 'high' = involves loss, health, nostalgia, or milestones."
+    },
+    "workaround_used": {
+      "type": "string",
+      "enum": [
+        "none",
+        "third-party app",
+        "asked someone",
+        "manual scroll"
+      ],
+      "description": "Any workaround the user employed outside of Google Photos search."
+    },
+    "query_formulation": {
+      "type": "object",
+      "description": "Captures how the user formulated their search query. Infer 'style' only from explicit search-behavior described in raw_text; do not infer a search attempt if the record only describes the memory or frustration, not an action taken.",
+      "required": ["style", "example_query_paraphrased", "query_matched_forgotten_gap"],
+      "properties": {
+        "style": {
+          "type": "string",
+          "enum": [
+            "natural_language_description",
+            "single_keyword",
+            "person_name",
+            "location_name",
+            "date_guess",
+            "visual_descriptor",
+            "no_query_browsed_manually",
+            "not_mentioned"
+          ],
+          "description": "The style of search query the user attempted. Use 'not_mentioned' when raw_text does not describe any explicit search action."
+        },
+        "example_query_paraphrased": {
+          "type": ["string", "null"],
+          "maxLength": 80,
+          "description": "Max 12 words, paraphrased in the model's own words — never a verbatim quote from raw_text. null if style is 'not_mentioned'."
+        },
+        "query_matched_forgotten_gap": {
+          "type": ["boolean", "null"],
+          "description": "true = query targeted the specific thing they'd forgotten; false = query was unrelated to the forgotten gap, or they gave up; null = style is 'not_mentioned' or 'no_query_browsed_manually'."
+        }
+      },
+      "additionalProperties": false,
+      "if": {
+        "properties": { "style": { "enum": ["not_mentioned"] } }
+      },
+      "then": {
+        "properties": {
+          "example_query_paraphrased": { "type": "null" },
+          "query_matched_forgotten_gap": { "type": "null" }
+        }
+      }
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,100 @@
+{
+  "agent": "collector-reddit",
+  "started_at": "2026-09-22T06:51:52.649Z",
+  "completed_at": "2026-09-22T06:53:24.941Z",
+  "visited": 0,
+  "blocked": 18,
+  "errors": 0,
+  "pages": [
+    {
+      "url": "https://old.reddit.com/r/googlephotos/search?q=can't%20find%20old%20photo&restrict_sr=on&sort=relevance&t=all",
+      "status": "blocked",
+      "timestamp": "2026-09-22T06:51:53.510Z"
+    },
+    {
+      "url": "https://old.reddit.com/r/googlephotos/search?q=lost%20photo&restrict_sr=on&sort=relevance&t=all",
+      "status": "blocked",
+      "timestamp": "2026-09-22T06:52:01.004Z"
+    },
+    {
+      "url": "https://old.reddit.com/r/googlephotos/search?q=remember%20picture&restrict_sr=on&sort=relevance&t=all",
+      "status": "blocked",
+      "timestamp": "2026-09-22T06:52:05.810Z"
+    },
+    {
+      "url": "https://old.reddit.com/r/googlephotos/search?q=search%20photos&restrict_sr=on&sort=relevance&t=all",
+      "status": "blocked",
+      "timestamp": "2026-09-22T06:52:10.609Z"
+    },
+    {
+      "url": "https://old.reddit.com/r/googlephotos/search?q=can't%20find%20photo&restrict_sr=on&sort=relevance&t=all",
+      "status": "blocked",
+      "timestamp": "2026-09-22T06:52:15.152Z"
+    },
+    {
+      "url": "https://old.reddit.com/r/googlephotos/search?q=missing%20photo&restrict_sr=on&sort=relevance&t=all",
+      "status": "blocked",
+      "timestamp": "2026-09-22T06:52:20.590Z"
+    },
+    {
+      "url": "https://old.reddit.com/r/GooglePixel/search?q=can't%20find%20old%20photo&restrict_sr=on&sort=relevance&t=all",
+      "status": "blocked",
+      "timestamp": "2026-09-22T06:52:26.181Z"
+    },
+    {
+      "url": "https://old.reddit.com/r/GooglePixel/search?q=lost%20photo&restrict_sr=on&sort=relevance&t=all",
+      "status": "blocked",
+      "timestamp": "2026-09-22T06:52:30.992Z"
+    },
+    {
+      "url": "https://old.reddit.com/r/GooglePixel/search?q=remember%20picture&restrict_sr=on&sort=relevance&t=all",
+      "status": "blocked",
+      "timestamp": "2026-09-22T06:52:36.358Z"
+    },
+    {
+      "url": "https://old.reddit.com/r/GooglePixel/search?q=search%20photos&restrict_sr=on&sort=relevance&t=all",
+      "status": "blocked",
+      "timestamp": "2026-09-22T06:52:41.174Z"
+    },
+    {
+      "url": "https://old.reddit.com/r/GooglePixel/search?q=can't%20find%20photo&restrict_sr=on&sort=relevance&t=all",
+      "status": "blocked",
+      "timestamp": "2026-09-22T06:52:46.335Z"
+    },
+    {
+      "url": "https://old.reddit.com/r/GooglePixel/search?q=missing%20photo&restrict_sr=on&sort=relevance&t=all",
+      "status": "blocked",
+      "timestamp": "2026-09-22T06:52:51.181Z"
+    },
+    {
+      "url": "https://old.reddit.com/r/androidapps/search?q=can't%20find%20old%20photo&restrict_sr=on&sort=relevance&t=all",
+      "status": "blocked",
+      "timestamp": "2026-09-22T06:52:55.961Z"
+    },
+    {
+      "url": "https://old.reddit.com/r/androidapps/search?q=lost%20photo&restrict_sr=on&sort=relevance&t=all",
+      "status": "blocked",
+      "timestamp": "2026-09-22T06:53:00.583Z"
+    },
+    {
+      "url": "https://old.reddit.com/r/androidapps/search?q=remember%20picture&restrict_sr=on&sort=relevance&t=all",
+      "status": "blocked",
+      "timestamp": "2026-09-22T06:53:05.455Z"
+    },
+    {
+      "url": "https://old.reddit.com/r/androidapps/search?q=search%20photos&restrict_sr=on&sort=relevance&t=all",
+      "status": "blocked",
+      "timestamp": "2026-09-22T06:53:10.037Z"
+    },
+    {
+      "url": "https://old.reddit.com/r/androidapps/search?q=can't%20find%20photo&restrict_sr=on&sort=relevance&t=all",
+      "status": "blocked",
+      "timestamp": "2026-09-22T06:53:14.587Z"
+    },
+    {
+      "url": "https://old.reddit.com/r/androidapps/search?q=missing%20photo&restrict_sr=on&sort=relevance&t=all",
+      "status": "blocked",
+      "timestamp": "2026-09-22T06:53:19.489Z"
+    }
+  ]
+}

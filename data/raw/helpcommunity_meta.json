@@ -1,0 +1,31 @@
+{
+  "agent": "collector-helpcommunity",
+  "started_at": "2026-09-22T06:54:59.916Z",
+  "completed_at": "2026-09-22T06:57:44.238Z",
+  "record_count": 0,
+  "errors": [],
+  "status": "failed",
+  "threads_discovered": 18,
+  "threads_extracted": 0,
+  "threads_skipped": 18,
+  "skipped_urls": [
+    "https://support.google.com/photos/thread/455695018/update-new-sticker-shimmer-options?hl=en",
+    "https://support.google.com/photos/thread/455460020/update-new-option-to-turn-photo-grid-dates-on-and-off?hl=en",
+    "https://support.google.com/photos/thread/455430565/capture-photos-instantly-for-quick-ai-edits-in-google-photos?hl=en",
+    "https://support.google.com/photos/community/about?hl=en",
+    "https://support.google.com/photos/thread/new?hl=en",
+    "https://support.google.com/photos/thread/151918549/unsolicited-spam-via-google-photos?hl=en",
+    "https://support.google.com/photos/thread/236075419/restore-my-permanently-deleted-google-photo?hl=en",
+    "https://support.google.com/photos/thread/231819949/recover-my-all-deleted-photos?hl=en",
+    "https://support.google.com/photos/thread/237921580/i-want-to-recover-my-permanently-deleted-photos-from-googel-trash?hl=en",
+    "https://support.google.com/photos/thread/211964227/this-is-my-college-email-if-and-i-have-got-unlimited-storage-but-this-is-showing-it-full?hl=en",
+    "https://support.google.com/photos/thread/235096732/stuck-on-getting-ready-for-backup?hl=en",
+    "https://support.google.com/photos/thread/234590130/need-my-lock-folder-photos-back?hl=en",
+    "https://support.google.com/photos/thread/232681769/editor-not-working-on-computer?hl=en",
+    "https://support.google.com/photos/thread/237738372/i-need-send-a-screenshot-for-proof-and-only-allowed-up-to-5mb-how-do-i-do-that?hl=en",
+    "https://support.google.com/photos/thread/237653889/editing-a-heic-file-doesn-t-support-saving-to-the-original-file-the-copy-loses-exif-data?hl=en",
+    "https://support.google.com/photos/thread/225185737/google-photos-app-on-phone-and-google-photos-login-from-computer-not-syncing?hl=en",
+    "https://support.google.com/photos/thread/237108095/stepping-over-to-new-laptop-what-does-google-photos-do?hl=en",
+    "https://support.google.com/photos/thread/237019810/convert-original-quality-photos-videos-into-high-quality?hl=en"
+  ]
+}

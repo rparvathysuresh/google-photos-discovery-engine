@@ -1,0 +1,56 @@
+{
+  "pipeline_id": "run_1790059703810",
+  "started_at": "2026-09-22T07:07:39.854Z",
+  "completed_at": "2026-09-22T07:07:39.861Z",
+  "stages": {
+    "stage_1": {
+      "status": "partial",
+      "started_at": "2026-09-22T06:48:23.813Z",
+      "completed_at": "2026-09-22T06:57:44.991Z",
+      "collectors": [
+        {
+          "name": "playstore",
+          "status": "partial",
+          "count": 0
+        },
+        {
+          "name": "appstore",
+          "status": "failed",
+          "count": 0,
+          "error": "All retries exhausted"
+        },
+        {
+          "name": "reddit",
+          "status": "failed",
+          "count": 0,
+          "error": "All retries exhausted"
+        },
+        {
+          "name": "helpcommunity",
+          "status": "failed",
+          "count": 0,
+          "error": "All retries exhausted"
+        },
+        {
+          "name": "youtube",
+          "status": "failed",
+          "count": 0,
+          "error": "All retries exhausted"
+        }
+      ],
+      "total_records": 0
+    },
+    "stage_2": {
+      "status": "failed",
+      "started_at": "2026-09-22T06:57:44.999Z",
+      "completed_at": "2026-09-22T06:57:45.013Z",
+      "records_in": 0,
+      "records_out": 0
+    }
+  },
+  "args": {
+    "start_stage": 4,
+    "sample": false
+  },
+  "final_status": "failed"
+}

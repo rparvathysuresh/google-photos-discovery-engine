@@ -1,0 +1,13 @@
+{
+  "agent": "collector-playstore",
+  "started_at": "2026-09-22T06:48:33.525Z",
+  "completed_at": "2026-09-22T06:48:45.928Z",
+  "record_count": 0,
+  "errors": [
+    "Batch 1 failed: Cannot read properties of undefined (reading 'RELEVANCE')",
+    "Batch 2 failed: Cannot read properties of undefined (reading 'RELEVANCE')",
+    "Batch 3 failed: Cannot read properties of undefined (reading 'RELEVANCE')"
+  ],
+  "status": "partial",
+  "batches_fetched": 3
+}

@@ -1,0 +1,13 @@
+{
+  "agent": "collector-reddit",
+  "started_at": "2026-09-22T06:51:52.649Z",
+  "completed_at": "2026-09-22T06:53:24.942Z",
+  "record_count": 0,
+  "errors": [],
+  "status": "failed",
+  "posts_discovered": 0,
+  "posts_extracted": 0,
+  "pages_visited": 0,
+  "pages_blocked": 18,
+  "pages_errored": 0
+}
