@@ -180,7 +180,7 @@ Five independent collectors, each responsible for a single data source.
 | **Goal** | Serve the pipeline output data to the frontend via a REST API |
 | **Input** | `/data/structured/records.json`, `/analysis/clusters.md`, `/analysis/summary.md`, `_meta.json` files |
 | **Framework** | Express.js |
-| **Endpoints** | `/api/status`, `/api/clusters`, `/api/records` |
+| **Endpoints** | `/api/status`, `/api/clusters`, `/api/records`, `/api/chat` |
 
 ---
 
@@ -191,7 +191,7 @@ Five independent collectors, each responsible for a single data source.
 | **Goal** | Provide a clean, minimal web interface for PMs to explore insights (optimized for unified Railway deploy) |
 | **Framework** | React via Vite |
 | **Styling** | Vanilla CSS (minimal dark theme, clean typography) |
-| **Views** | Executive Summary, Opportunity Clusters, Data Explorer |
+| **Views** | Executive Summary, Opportunity Clusters, Data Explorer, Ask AI (Interactive Chat) |
 
 ---
 

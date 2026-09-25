@@ -315,6 +315,26 @@
 
 ---
 
+## Phase 9 — Interactive Ask AI Chat (Add-on)
+
+**Duration:** ~1 day
+**Goal:** Provide an interactive, natural-language interface for PMs to query the dataset using a Groq LLM.
+
+| # | Task | Detail |
+|---|------|--------|
+| 9.1 | Backend Endpoint | Implement `/api/chat` in Express to accept conversation history |
+| 9.2 | Context Injection | Load `records.json` and `clusters.md` as context into the LLM system prompt |
+| 9.3 | Token Limit Safety | Truncate conversation history and sample `records.json` to avoid hitting TPM (Tokens Per Minute) limits |
+| 9.4 | Frontend Integration | Build `Chat.jsx` component in React to interface with the backend |
+
+### Phase 9 Exit Criteria
+
+- [ ] Users can chat naturally with the AI about the generated data
+- [ ] Backend safely proxies requests to Groq without exposing the API key on the client side
+- [ ] The app handles token limits gracefully
+
+---
+
 ## Timeline Summary
 
 | Phase | Description | Duration | Dependency |
@@ -328,7 +348,8 @@
 | **6** | Backend API (Data Serving) | 1 day | Phase 5 |
 | **7** | Minimal Frontend Dashboard | 2–3 days | Phase 6 |
 | **8** | Integration testing & polish | 1–2 days | Phase 7 |
-| | **Total** | **~16–21 days** | |
+| **9** | Interactive Ask AI Chat | 1 day | Phase 6, 7 |
+| | **Total** | **~17–22 days** | |
 
 ---
 

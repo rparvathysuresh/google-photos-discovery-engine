@@ -68,6 +68,7 @@ Save as a single `schema.json` used consistently by every extraction pass.
 | `/data/structured/records.json` | Schema-conformant records (~500–1000+ target) |
 | `/analysis/clusters.md` | Ranked opportunity areas with supporting quote references (URLs, not full reproduced text) and counts per cluster |
 | `/analysis/summary.md` | Top 3–5 opportunity areas a Google Photos PM could act on, each with: cluster size, example remembered/forgotten pattern, why current search fails it, and confidence in the evidence |
+| `client/` and `server/` | A unified minimal React dashboard featuring an interactive **Ask AI** chat interface to query the generated datasets. |
 
 ## Constraints
 
